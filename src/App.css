@@ -1,0 +1,46 @@
+.page-title{
+  display: block !important;
+  text-align: center;
+  margin: 0 auto 1rem !important;
+}
+
+
+/* MenuBar */
+.ui.secondary.pointing.menu{
+  margin-bottom: 3rem;
+}
+
+
+/* Button  */
+.ui.red.button:focus, .ui.red.buttons .button:focus{
+  background-color: #db2828;
+}
+
+
+/* Form */
+.ui.form .field {
+  margin: 1.5rem 0;
+}
+
+.ui.form .field>label {
+  font-size: 1.2rem;
+}
+
+.ui.form input[type=text] {
+  font-size: 1.2rem;
+}
+
+.ui.form input[type=password] {
+  font-size: 1.2rem;
+}
+
+.ui.form input[type=email] {
+  font-size: 1.2rem;
+}
+
+.ui.form textarea {
+  font-size: 1.2rem;
+}
+
+
+
