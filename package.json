@@ -14,6 +14,7 @@
     "graphql": "^15.4.0",
     "graphql-tag": "^2.11.0",
     "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
@@ -47,5 +48,4 @@
     ]
   },
   "proxy": "https://svipestd-test2.herokuapp.com/"
-
 }
