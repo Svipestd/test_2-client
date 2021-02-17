@@ -73,6 +73,12 @@ const Login = (props) => {
           </ul>
         </div>
       )}
+
+      <div className='ui info message'>
+        Для быстрого входа:
+        <div>Username: User</div>
+        <div>Password: 123456</div>
+      </div>
     </Segment>
   )
 }

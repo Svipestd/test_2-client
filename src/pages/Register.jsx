@@ -90,6 +90,7 @@ const Register = (props) => {
           </ul>
         </div>
       )}
+
     </Segment>
   )
 }
